@@ -4,7 +4,7 @@ Resources used :
 
 1. http://www.youtube.com/@campusx-official
 2. https://www.youtube.com/@CodeEmporium
-
+3. https://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
 Topics (what is present in which notebook in order of the notebook numbers)
 1. Contains basic definitions and concepts for Deep Learning and Neural Networks in general. 
